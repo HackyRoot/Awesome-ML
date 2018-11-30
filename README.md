@@ -11,7 +11,7 @@ Tips and tricks about Machine Learning.
     
 - [Histogram and Density Plots](https://github.com/HackyRoot/Awesome-ML/blob/master/Histogram_and_Density_Plot/Histogram%20and%20Density%20Plot.ipynb)
 
-    Plotting histograms and density plots using real life NYC flights dataset(https://github.com/hadley/nycflights13).
+    Plotting histograms and density plots using real life [NYC flights dataset](https://github.com/hadley/nycflights13).
     
 - [Python ANN](https://github.com/HackyRoot/Awesome-ML/blob/master/Python_ANN.ipynb)
 
