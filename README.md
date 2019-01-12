@@ -3,7 +3,11 @@ Tips and tricks about Machine Learning.
 
 - [GIF map](https://github.com/HackyRoot/Awesome-ML/blob/master/GIFmap/Maps_GIF.ipynb)
 
-    Tired of creating boring charts? Let's use some GIF power add animation to them.
+Tired of creating boring charts? Let's use some GIF power add animation to them.
+
+<p align="center">
+    <img align="center" src="https://raw.githubusercontent.com/HackyRoot/Awesome-ML/master/GIFmap/GIFmap.gif" alt="GIF map" width="500"/>
+</p>
  
 - [GPU Test](https://github.com/HackyRoot/Awesome-ML/blob/master/GPU%20Test.ipynb)
     
